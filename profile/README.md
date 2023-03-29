@@ -1,9 +1,7 @@
-Globally distributed edge-based content management system and 
-website builder based on React components (potentially framework/library agnostic). 
-The system uses microVMs for server-side rendering and code execution, 
-which allows for fast startup times reducing the latency of cold starts.
+Tailspiral offers a streamlined solution for handling modular website components, enabling developers to easily create, manage, and deploy individual user interface elements while maintaining a cohesive and consistent user experience. This innovative approach allows for greater flexibility and scalability in web development, as each component can be developed, tested, and updated independently of the others.
 
-The goal of OnEdgeCMS is to allow users to create and deploy individual federated
-components, such as those found in a component library, with built-in 
-server-side logic. Taking inspiration from the game industry 
-where level designers use assets built by 3D artists.
+By utilizing Tailspiral's comprehensive management system, you can seamlessly integrate these modular components into your website or application without sacrificing design consistency. The platform ensures that all elements are expertly orchestrated and work harmoniously together, providing an optimal user experience across your digital properties.
+
+This unique approach to web development not only simplifies the process but also promotes collaboration among teams, as each member can focus on specific components without affecting the overall project. As a result, development cycles are reduced, and the final product is easier to maintain.
+
+In essence, Tailspiral offers a modern, managed solution for creating and deploying modular web components, empowering developers to build flexible and scalable websites and applications without the complexity typically associated with traditional development methods.
